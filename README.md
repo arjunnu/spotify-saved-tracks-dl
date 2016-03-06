@@ -1,6 +1,6 @@
 # spotify-saved-tracks-dl
 
-A command line utilty which lets users download his/her spotify saved tracks from youtube
+A command line utility which lets users download his/her spotify saved audio tracks from youtube
 
 ## Usage
 * ./savify \<OAuthKey\> 
