@@ -7,11 +7,6 @@ A command line utility which lets users download spotify tracks from albums, pla
 * Can download saved songs.
 * Need to install some prerequisites and change keys by modifying the script. 
 
-# 2.0 (Proposed features)
-* Take keys as arguments 
-* Install prerequisites automatically.
-* Download spotify playlists
-
 ## Prerequisites
 Run the below commands
 * brew install youtube-dl
@@ -28,3 +23,8 @@ Get your  spotify OAuthKey from https://developer.spotify.com/web-api/console/ge
 * Hit "REQUEST TOKEN" button
 
 Get your youtube API key by following this tutorial https://www.youtube.com/watch?v=JbWnRhHfTDA (You will have to login to your google account)
+
+# 2.0 (Proposed features)
+* Take keys as arguments
+* Install prerequisites automatically.
+* Download spotify playlists
