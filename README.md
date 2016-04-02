@@ -12,7 +12,6 @@ Run the below commands
 
 ## Usage
 * python savify.py 
-* ~~./savify \<OAuthKey\> ~~
 
 Replace ENTER\_YOUR\_SPOTIFY\_API\_KEY\_HERE and ENTER\_YOUR\_YOUTUBE\_API\_KEY\_HERE aptly
 
